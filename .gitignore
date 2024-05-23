@@ -1,0 +1,8 @@
+# Ignore key files and terraform statefiles
+*.pem
+*terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.pdf
+*.exe
+
